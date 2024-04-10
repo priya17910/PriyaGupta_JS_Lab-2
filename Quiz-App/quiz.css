@@ -1,0 +1,54 @@
+.quizLayout {
+  width: 600px;
+  height: 500px;
+  background-color: #fff;
+  border: 2px solid #cbcbcb;
+  border-radius: 15px;
+  margin: auto auto auto auto;
+  background-color: cadetblue;
+}
+
+.quizLayout h1 {
+  width: 600px;
+  font-family: "sans-serif";
+  background-color: cadetblue;
+  text-align: center;
+  color: #ffffff;
+  font-size: 60px;
+  height: 70px;
+}
+
+#score {
+  color: white;
+  text-align: center;
+  font-size: 30px;
+}
+
+.quizLayout #question {
+  font-family: "monospace";
+  font-size: 30px;
+  color: white;
+  text-align: center;
+}
+
+#btn0,
+#btn1,
+#btn2,
+#btn3 {
+  background-color: #1D3C6A;
+  width: 250px;
+  font-size: 20px;
+  color: #fff;
+  border: 1px solid #1D3C6A;
+  margin: 10px 10px 10px 10px;
+  padding: 10px 10px;
+  border-radius: 5px;
+  margin-left: 1.8rem;
+}
+
+#progress {
+  color: white;
+  font-size: 18px;
+  text-align: center;
+  padding-top: 1.6rem;
+}
